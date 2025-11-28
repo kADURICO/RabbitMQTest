@@ -1,4 +1,4 @@
-# Projeto Aluno A: Mini-sistema de Pedidos com RabbitMQ
+# Mini-sistema de Pedidos com RabbitMQ
 
 Este projeto é uma implementação acadêmica de uma arquitetura de microserviços utilizando **Java 21**, **Spring Boot** e **RabbitMQ**..
 
